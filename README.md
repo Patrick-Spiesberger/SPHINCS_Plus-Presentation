@@ -16,9 +16,9 @@ The rights to the template for this presentation belong to the KASTEL: Cryptogra
 
 [5] Andreas Hülsing et al. “SPHINCS+C: Compressing SPHINCS+ With (Almost) No Cost”. In: IEEE, 2023, pp. 1435–1453. doi: 10.1109/SP46215.2023.10179381. url: https://doi.org/ 10.1109/SP46215.2023.10179381.
 
-[6] Ruben Niederhagen, Johannes Roth, and Julian Wälde. “Streaming SPHINCS+ for Embedded Devices Using the Example of TPMs”. In: 2022. doi: 10.1007/978-3-031-17433-9_12.
+[6] Ruben Niederhagen, Johannes Roth, and Julian Wälde. “Streaming SPHINCS+ for Embedded Devices Using the Example of TPMs”. In: 2022. doi: 10.1007/978-3-031-17433-9_12. url: https://doi.org/10.1007/978-3-031-17433-9_12.
 
-[7] Sizing Up Post-Quantum Signatures. last visited: 14.12.2023. url: https://blog.cloudflare. com/sizing-up-post-quantum-signatures/.
+[7] Sizing Up Post-Quantum Signatures. last visited: 14.12.2023. url: https://blog.cloudflare.com/sizing-up-post-quantum-signatures/.
 
 [8] SPHINCS+ – The smaller SPHINCS. last visited: 14.12.2023. url: https://huelsing.net/wordpress/?p=558.
 
