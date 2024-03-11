@@ -14,7 +14,7 @@ The rights to the template for this presentation belong to the KASTEL: Cryptogra
 
 [4] COSIC seminar "Introduction to Hash Based Signatures" (John Kelsey, KU Leuven and NIST). last visited: 14.12.2023. url: https://youtu.be/jiU0ICoiPI0?si=mbZRousIb2wnp1mi.
 
-[5] Andreas Hülsing et al. “SPHINCS+C: Compressing SPHINCS+ With (Almost) No Cost”. In: IEEE, 2023, pp. 1435–1453. doi: 10.1109/SP46215.2023.10179381. url: https://doi.org/ 10.1109/SP46215.2023.10179381.
+[5] Andreas Hülsing et al. “SPHINCS+C: Compressing SPHINCS+ With (Almost) No Cost”. In: IEEE, 2023, pp. 1435–1453. doi: 10.1109/SP46215.2023.10179381. url: https://doi.org/10.1109/SP46215.2023.10179381.
 
 [6] Ruben Niederhagen, Johannes Roth, and Julian Wälde. “Streaming SPHINCS+ for Embedded Devices Using the Example of TPMs”. In: 2022. doi: 10.1007/978-3-031-17433-9_12. url: https://doi.org/10.1007/978-3-031-17433-9_12.
 
